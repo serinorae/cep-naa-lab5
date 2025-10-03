@@ -1,0 +1,69 @@
+
+Host Name:                     SULICANEVO
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              shumawawinhtun.08@gmail.com
+Registered Organization:       N/A
+Product ID:                    00355-61852-41431-AAOEM
+Original Install Date:         2025-09-09, 6:11:34 AM
+System Boot Time:              2025-09-30, 3:40:33 PM
+System Manufacturer:           LENOVO
+System Model:                  83E3
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 117 Stepping 2 AuthenticAMD ~3801 Mhz
+BIOS Version:                  LENOVO NCCN20WW, 2024-07-05
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:         14,141 MB
+Available Physical Memory:     5,823 MB
+Virtual Memory: Max Size:      22,333 MB
+Virtual Memory: Available:     8,188 MB
+Virtual Memory: In Use:        14,145 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\SULICANEVO
+Hotfix(s):                     6 Hotfix(s) Installed.
+                               [01]: KB5064401
+                               [02]: KB5050575
+                               [03]: KB5054273
+                               [04]: KB5065847
+                               [05]: KB5065426
+                               [06]: KB5064531
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [02]: Realtek 8852CE WiFi 6E PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     172.16.0.1
+                                     IP address(es)
+                                     [01]: 172.16.14.34
+                                     [02]: fe80::f77e:e65d:e6a4:4c03
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Audit
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+sulicanevo\shuma
